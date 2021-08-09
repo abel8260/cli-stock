@@ -1,6 +1,6 @@
 # CLI pra controle de estoque
 
-![image](file:///tmp/mozilla_abelb0/apachetomcat.svg)
+![image](https://img.shields.io/hexpm/l/#F8DC75)
 
  state: in devlopment;
 
