@@ -5,4 +5,7 @@
 > ![image](https://img.shields.io/badge/version-v(1.00.01)-blue)
 > ![image](https://img.shields.io/badge/type-%20downloadable-sucess)
 ***
-author:  ![image](https://i.ibb.co/4mhxPHR/res1.png)
+| author  |     dev      |  GitHUb |
+|----------|:-------------:|------:|
+| ebol |  ![image](https://i.ibb.co/4mhxPHR/res1.png) | https://github.com/abel8260|
+:  
