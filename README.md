@@ -11,5 +11,7 @@
 | author|     dev      |GitHUB |
 |----------|:-------------:|------:|
 | ebol |  ![image](https://i.ibb.co/4mhxPHR/res1.png) | https://github.com/abel8260|
-:  
+ 
 
+# Description:
+A prodtive storage in devlopment to organize stock in PASCAL.      
